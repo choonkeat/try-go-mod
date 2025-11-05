@@ -1,0 +1,3 @@
+# github.com/choonkeat/try-go-util v0.0.0-20251105030103-e17c1294a281
+## explicit; go 1.25.3
+github.com/choonkeat/try-go-util/pkg/logutil
